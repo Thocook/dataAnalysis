@@ -1,4 +1,4 @@
-# dataAnalysis
+# dataScience
 
 This repository contains various data-focused projects, categorized into two main areas: **Artificial Intelligence** and **Data Analysis**.
 
